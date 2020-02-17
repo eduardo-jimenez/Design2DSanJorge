@@ -1,6 +1,6 @@
 Hola Mundo!
 
-Esta frase está en medio y es super importante
+Esta frase está en medio y no me gusta
 
 Ahora escribo aquí otra frase
 
